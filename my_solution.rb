@@ -128,6 +128,9 @@ p users["Jonathan"][:twitter]
 p users["Erik"][:home_town]
 
 # Get the array of Erik's lottery numbers
+
+p users["Erik"][:lottery_numbers]
+
 # Get the type of Avril's pet Monty
 # Get the smallest of Erik's lottery numbers
 # Return an array of Avril's lottery numbers that are even
